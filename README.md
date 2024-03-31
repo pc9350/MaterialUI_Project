@@ -44,6 +44,11 @@ To get a local copy up and running, follow these simple steps:
 
 This will start the development server, and you can view the project at http://localhost:3000 (or your configured port) in your preferred browser.
 
+### Screenshots:
+
+![dark mode image](./src/assets/darkmode.png)
+![light mode image](./src/assets/lightmode.png)
+
 **Contact**
 Pranav Chhabra - chhabrapranav2001@gmail.com
 
