@@ -57,4 +57,4 @@ This will start the development server, and you can view the project at http://l
 **Contact**
 **Pranav Chhabra** - chhabrapranav2001@gmail.com
 
-**Embark on your journey:** Discover ScrollHub
+**Embark on your journey:** [Discover ScrollHub](https://github.com/pc9350/MaterialUI_Project)
