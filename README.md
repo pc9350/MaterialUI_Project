@@ -50,10 +50,11 @@ This will start the development server, and you can view the project at http://l
 
 ![dark mode image](./src/assets/darkmode.png)
 
+*Embrace the tranquility of dark mode, where content and comfort unite.*
 
 ![light mode image](./src/assets/lightmode.png)
 
 **Contact**
-Pranav Chhabra - chhabrapranav2001@gmail.com
+**Pranav Chhabra** - chhabrapranav2001@gmail.com
 
-Project Link: https://github.com/pc9350/MaterialUI_Project
+**Embark on your journey:** Discover ScrollHub
