@@ -1,0 +1,11 @@
+.post-card{
+    padding: 20px;  
+    border-radius: 5px;
+    width: 50%;
+}
+
+.post-image{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
